@@ -1,0 +1,88 @@
+body {
+    background-color: #ec5414;
+}
+nav {
+    background-color: #ec5414;
+    color: white;
+    height: 55px;
+    text-align: center;
+}
+nav ul {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0;
+    padding:18px;
+}
+nav ul li {
+    display: inline;
+
+}
+nav ul li a{
+    color: white;
+    font-size: arial;
+    text-decoration: none;
+    
+}
+.home img {
+    height: 30rem;
+    width: 100%;
+    margin-top: 0;
+}
+.home h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 4rem;
+    left: 10px;
+    position: absolute;
+    top: 4rem;
+}
+.home h3 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    left: 10px;
+    position: absolute;
+    top: 13rem;
+}
+
+.home button {
+    background-color: #ec5414;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    cursor: pointer;
+    height: 3rem;
+    left: 45%;
+    margin: 4px 2px;
+    padding: 16px 32px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    top: 27rem;
+    width: 200px;
+}
+.bottom__bar{
+    background-color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 113px;
+    margin-top: 0;
+}
+.bottom__bar p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7rem;
+    margin-top: 0;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 90%;
+    left: 50%;
+}
+.bottom__bar .svg-icon{
+    position: absolute;
+    font-size: 0.7rem;
+    transform: translate(-50%, -50%);
+    top: 90%;
+    left: 90%;
+}
+
+

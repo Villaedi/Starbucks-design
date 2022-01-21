@@ -1,0 +1,121 @@
+.categories {
+    position: absolute;
+    width: 40%;
+    height: 20rem;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 110%;
+    letter-spacing: -0.03em;
+    color: #FFFFFF;
+}
+.categories-img img {
+    position: absolute;
+    width: 359px;
+    height: 500px;
+    left: 72.1%;
+    
+}
+.categories__pizza {
+    font-family: 'Roboto', sans-serif;
+    position: absolute;
+    height: 100px;
+    width: 200px;
+    top: 60%;
+}
+.categories__pizza h1 {
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+.categories__pizza h2 {
+    justify-content: center;
+    align-items: center;
+}
+
+.pizza .pizza1 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 85%;
+    width: 17rem;
+    height: 34rem;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+    
+}
+.pizza .pizza1 h1 {
+    margin: 3rem;
+}
+
+.pizza .pizza1 p {
+    margin: 3rem;
+    font-size: 0.7rem;
+}
+
+.pizza .pizza2 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 85%;
+    left: 30%;
+    width: 17rem;
+    height: 34rem;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.pizza .pizza2 h1 {
+    margin: 3rem;
+}
+.pizza .pizza2 p {
+    margin: 3rem;
+    font-size: 0.7rem;
+}
+.pizza .pizza3 {
+    position: absolute;
+    background-color: black;
+    color: white;
+    top: 85%;
+    left: 60%;
+    width: 17rem;
+    height: 34rem;
+    font-family: Arial, Helvetica, sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+.pizza .pizza3 h1 {
+    margin: 3rem;
+}
+.pizza .pizza3 p {
+    margin: 3rem;
+    font-size: 0.7rem;
+}
+.bottom__bar2{
+    background-color: white;
+    position: absolute;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+    height: 113px;
+    margin-top: 0;
+    top: 170%;
+}
+.bottom__bar2 p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 0.7rem;
+    margin-top: 0;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 70%;
+    left: 50%;
+}
+.bottom__bar2 .svg-icon2{
+    position: absolute;
+    font-size: 0.7rem;
+    transform: translate(-50%, -50%);
+    top: 70%;
+    left: 90%;
+}
